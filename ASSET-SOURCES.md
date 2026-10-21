@@ -40,3 +40,9 @@ Latest seven original JPG attachments replace low-resolution PDF crops throughou
 6. `station-team-v2.webp`: new exhibition photograph, 720×1280.
 7. `station-product-v2.webp`: new actual product photograph, 914×1280.
 Old project raster crops have been deleted from the published asset directory. Existing training certificates and organization logos remain unchanged.
+
+## Aljabr live website, 21 October 2026
+- Approved direct-visit URL supplied by owner: https://aljabrcompany.vercel.app/#contact
+- `aljabr-site-preview.webp`: actual 1440×1000 screenshot of the website's retrieved first-party HTML, including its embedded original styles and imagery. No redesigned interface, generated image or iframe. Optimized to WebP without resizing/cropping.
+- Confirmed `#contact` exists in the source, with heading «يسعدنا تواصلك.».
+- Independent native external anchors on the portfolio card and case page open a new tab with `noopener noreferrer`. The remaining card area links to the case details; links are siblings.
