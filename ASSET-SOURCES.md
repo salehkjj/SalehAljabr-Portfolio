@@ -48,7 +48,7 @@ Old project raster crops have been deleted from the published asset directory. E
 - Independent native external anchors on the portfolio card and case page open a new tab with `noopener noreferrer`. The remaining card area links to the case details; links are siblings.
 
 ## ركّز؟ — supplied 24 October 2026
-- Approved project name: «ركّز؟», including the Arabic question mark. The existing target site path `markaz` and its current browser title are not used as the portfolio's project name.
+- Approved display name updated by owner: «مركز ؟», including the space before the Arabic question mark. The existing target site path `markaz` and its current browser title are not used as the portfolio's project name.
 - Approved public URL: https://salehkjj.github.io/markaz/ — checked successfully (HTTP 200) on 24 October 2026; stylesheet and application bundle URLs also returned HTTP 200.
 - Content and role confirmed by owner: Founder & Developer; independently originated idea, designed experience and identity, built the site. Current version is for students; future expansion to employees is a plan, not an implemented capability.
 - `rakkez-identity.webp`: lossless WebP of the complete original supplied 1280×853 image; no crop, resize, recoloring or invented screens.
