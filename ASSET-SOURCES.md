@@ -54,3 +54,8 @@ Old project raster crops have been deleted from the published asset directory. E
 - `rakkez-identity.webp`: lossless WebP of the complete original supplied 1280×853 image; no crop, resize, recoloring or invented screens.
 - `rakkez-logo.webp`: original full upper-left logo panel extracted at coordinates (0,0)-(498,448), preserving the complete mark, background and original pixels. Used only as card cover.
 - The phone in the identity board is explicitly labeled as a visual identity concept, not a screenshot of the working site.
+
+## مركز ؟ interface replacement — 24 October 2026
+- Per the owner's revision, removed the entire identity board and enlarged raster logo from the portfolio and published assets.
+- Captured the actual public homepage at https://salehkjj.github.io/markaz/ in a clean browser session at 1440×900 CSS pixels, device scale factor 2 (2880×1800 image pixels), after network and fonts loaded. The currently public homepage is the sign-in screen. No account was created, authentication bypassed, or dashboard data invented.
+- `markaz-home-retina.webp` is the full-resolution screenshot compressed as WebP at quality 98; `markaz-home.webp` is a 1440×900 responsive version at quality 96. Website content is unchanged. The MacBook Air-inspired frame is CSS presentation around the real screenshot, not a photograph of physical hardware.
