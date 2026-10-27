@@ -1,5 +1,9 @@
 # SalehAljabr-Portfolio
 
+<p align="center">
+  <img src="public/assets/saleh-aljabr-logo.jpg" alt="شعار صالح الجبر" width="180" />
+</p>
+
 Arabic-first portfolio for Saleh Khalid Aljabr. Next.js App Router + TypeScript with static export. Preserves the approved design, content, licensed self-hosted fonts, native page transitions, and accessible original-size image viewer.
 
 ## Development
