@@ -59,3 +59,6 @@ Old project raster crops have been deleted from the published asset directory. E
 - Per the owner's revision, removed the entire identity board and enlarged raster logo from the portfolio and published assets.
 - Captured the actual public homepage at https://salehkjj.github.io/markaz/ in a clean browser session at 1440×900 CSS pixels, device scale factor 2 (2880×1800 image pixels), after network and fonts loaded. The currently public homepage is the sign-in screen. No account was created, authentication bypassed, or dashboard data invented.
 - `markaz-home-retina.webp` is the full-resolution screenshot compressed as WebP at quality 98; `markaz-home.webp` is a 1440×900 responsive version at quality 96. Website content is unchanged. The MacBook Air-inspired frame is CSS presentation around the real screenshot, not a photograph of physical hardware.
+
+## Personal header logo — 29 October 2026
+The owner requested placement of the previously supplied personal logo in the website header. `saleh-aljabr-header-logo.webp` trims only the outer blank canvas of `saleh-aljabr-logo.jpg` at (275,215)-(1000,1055); the complete green mark and peach dot are preserved without redrawing or recoloring. The original JPG remains in the repository. The header logo links to home on all eight pages.

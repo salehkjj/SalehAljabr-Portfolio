@@ -29,3 +29,7 @@
 
 /* Generic screen frame; no device branding or laptop base. */
 .markaz-screen{padding-bottom:10px}.markaz-laptop-mini .markaz-screen{padding-bottom:5px}@media(max-width:740px){.markaz-screen{padding-bottom:6px}}
+/* Personal logo in the RTL header corner on every page. */
+.site-header{gap:36px;padding-block:18px}.site-brand{display:flex;align-items:center;justify-content:center;flex:0 0 52px;width:52px;min-height:60px;line-height:0}.site-brand img{display:block;width:52px;height:auto;max-height:64px;object-fit:contain}.site-header nav{width:auto;flex:1;min-width:0}.site-brand:focus-visible{border-radius:4px;outline-offset:5px}
+@media(max-width:740px){.site-header{gap:16px;padding-block:13px;justify-content:space-between}.site-brand{width:38px;flex-basis:38px;min-height:46px}.site-brand img{width:38px;max-height:46px}.site-header nav{gap:12px;font-size:11.5px}.site-header nav .nav-contact{margin-right:auto}}
+@media(max-width:370px){.site-header{gap:11px}.site-brand{width:32px;flex-basis:32px;min-height:40px}.site-brand img{width:32px;max-height:40px}.site-header nav{gap:9px;font-size:11px}.site-header .nav-contact span{margin-right:2px}}
